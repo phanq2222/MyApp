@@ -17,3 +17,5 @@ Prework app
    - [x] a. User can enter text into a text field using the keyboard.  
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [x] c. If the text field is empty, update label with default text string.  
+
+<img src="https://imgur.com/a/JZKP9QE" width=200><br>
