@@ -18,4 +18,4 @@ Prework app
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [x] c. If the text field is empty, update label with default text string.  
 
-<img src="https://imgur.com/a/JZKP9QE" width=200><br>
+<img src="https://imgur.com/RoEWfQW.gif" width=200><br>
