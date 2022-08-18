@@ -2,7 +2,7 @@
 Prework app
 
 
-<img src="https://imgur.com/Lt7l1bI" width=200><br>
+<img src="https://imgur.com/a/JZKP9QE" width=200><br>
 
 
 ### Required User Stories
