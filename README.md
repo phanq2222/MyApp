@@ -1,8 +1,9 @@
 # MyApp
 Prework app
 
-[Imgur](https://imgur.com/RoEWfQW.gif)
 
+[Imgur](https://imgur.com/VkKBNaj.gif)
+<img src="https://imgur.com/VkKBNaj.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
@@ -18,4 +19,4 @@ Prework app
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [x] c. If the text field is empty, update label with default text string.  
 
-<img src="https://imgur.com/RoEWfQW.gif" width=200><br>
+
