@@ -5,15 +5,16 @@
     android:id="@+id/backgroundView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ff88cc"
+    android:background="@color/design_default_color_background"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello from Quang!!"
+        android:text="@string/text_view_default"
         android:textSize="40sp"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -62,7 +63,8 @@
         android:layout_width="369dp"
         android:layout_height="52dp"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="text"
+        android:text="@string/edit_text_default"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
