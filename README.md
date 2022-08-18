@@ -1,8 +1,7 @@
 # MyApp
 Prework app
 
-
-<img src="https://imgur.com/a/JZKP9QE.gif" width=200><br>
+[Imgur](https://imgur.com/RoEWfQW)
 
 
 ### Required User Stories
